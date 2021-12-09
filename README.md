@@ -1,3 +1,2 @@
 # What is for ?
-
-Personal use to explore python features for data engineering purpose
+Personal use for exploring python features in the context of data manipulation.
