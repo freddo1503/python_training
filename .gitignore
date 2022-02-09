@@ -7,3 +7,6 @@ raw_data/
 **/__pycache__/
 .env
 .streamlit
+.ipynb_checkpoints
+/env
+.python-version
